@@ -1,4 +1,5 @@
 .mod-document .o-header:before {
+  content: ' ';
   background-image: url(https://github.com/attackandy/mod/blob/master/bottom-shape.svg);
   background-size: cover;
   background-position: center bottom;
