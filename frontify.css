@@ -1,3 +1,3 @@
-.mod-document .o-header {
-background-position: center bottom;
+.mod-document .o-header:before {
+  background-image: url();
 }
